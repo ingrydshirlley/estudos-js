@@ -1,0 +1,24 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 40px 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    background-color: aqua;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+#oi{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    justify-self: center;
+}
