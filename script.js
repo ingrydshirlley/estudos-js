@@ -6,11 +6,11 @@ var btn = document.getElementById("oi")
 
 
 //MOUSEOVER: ao passar o mouse
-/* btn.addEventListener(
+btn.addEventListener(
     "mouseover", () => {
         alert("oi")
     }
-) */
+)
 
 //CLICK: ao clicar
 /* btn.addEventListener(
